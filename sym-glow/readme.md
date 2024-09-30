@@ -23,7 +23,7 @@
  - `cd WLED`
  - run `npm install` 
  - in VS Code go to `platform.ini` and click Build (top rigth of the frame)
- - (Official compile docs)[https://kno.wled.ge/advanced/compiling-wled/]
+ - [Official compile docs](https://kno.wled.ge/advanced/compiling-wled/)
  
  
 
